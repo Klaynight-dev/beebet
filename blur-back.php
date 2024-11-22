@@ -1,0 +1,1 @@
+<div class="blur-background blur-background--hidden"></div>
